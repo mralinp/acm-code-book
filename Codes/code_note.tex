@@ -1,0 +1,88 @@
+\documentclass[4pt,twocolumn, landscape, a4paper]{report}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\lstset {
+    language=C++,
+    numbers=left,
+    breaklines=true,
+    keywordstyle=\bfseries\color{green!40!black},
+    commentstyle=\itshape\color{red!80!black},
+    identifierstyle=\color{blue},
+    stringstyle=\color{purple!40!black},
+    tabsize=2,
+    basicstyle=\ttfamily,
+}
+\begin{document}
+\begin{titlepage}
+\title{The Azinaa Code Notebook}
+\maketitle
+\end{titlepage}
+\newpage
+  \tableofcontents
+\newpage
+\section{Graph}
+
+\subsection{BFS}
+\lstinputlisting{BFS.cpp}
+
+\subsection{Bellman-Ford}
+\lstinputlisting{bellman_ford.cpp}
+
+\subsection{Topological-Sorting}
+\lstinputlisting{Topological_sorting.cpp}
+
+\subsection{Djkstra}
+\lstinputlisting{dijkstra.cpp}
+
+\subsection{Floyd Warshall}
+\lstinputlisting{floyd_warshal.cpp}
+
+\subsection{Strongly Connected Component}
+\lstinputlisting{SCC.cpp}
+
+\subsection{Minimum Spanning Tree}
+\lstinputlisting{MST.cpp}
+
+\subsection{Maximum-BPM}
+\lstinputlisting{MaximumBPM.cpp}
+
+\section{Flow}
+
+\subsection{Max-Flow}
+\lstinputlisting{Ford_Fulkerso.cpp}
+
+\subsection{Min-Cut}
+\lstinputlisting{min_cut.cpp}
+
+
+\section{Geometry}
+
+\subsection{Convex-Hull}
+\lstinputlisting{convex_hull.cpp}
+
+\subsection{Shoelace Formula (python)}
+\lstinputlisting{shoelace_formula.py}
+
+\section{String}
+
+\subsection{LCS}
+\lstinputlisting{LCS.cpp}
+
+\subsection{LIS}
+\lstinputlisting{LIS.cpp}
+
+\subsection{KMP}
+\lstinputlisting{KMP1.cpp}
+
+\section{Other}
+
+\subsection{Disjoint Set}
+\lstinputlisting{Disjoint_Set.cpp}
+
+\subsection{Date Transformation}
+\lstinputlisting{Dates.cpp}
+\subsection{make CIN and COUT Run Faseter}
+\lstinputlisting{ios.cpp}
+
+\end{document}
