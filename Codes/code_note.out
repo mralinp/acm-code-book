@@ -1,23 +1,27 @@
 \BOOKMARK [1][-]{section.0.1}{Graph}{}% 1
 \BOOKMARK [2][-]{subsection.0.1.1}{BFS}{section.0.1}% 2
-\BOOKMARK [2][-]{subsection.0.1.2}{Bellman-Ford}{section.0.1}% 3
-\BOOKMARK [2][-]{subsection.0.1.3}{Topological-Sorting}{section.0.1}% 4
-\BOOKMARK [2][-]{subsection.0.1.4}{Djkstra}{section.0.1}% 5
-\BOOKMARK [2][-]{subsection.0.1.5}{Floyd Warshall}{section.0.1}% 6
-\BOOKMARK [2][-]{subsection.0.1.6}{Strongly Connected Component}{section.0.1}% 7
-\BOOKMARK [2][-]{subsection.0.1.7}{Minimum Spanning Tree}{section.0.1}% 8
-\BOOKMARK [2][-]{subsection.0.1.8}{Maximum-BPM}{section.0.1}% 9
-\BOOKMARK [1][-]{section.0.2}{Flow}{}% 10
-\BOOKMARK [2][-]{subsection.0.2.1}{Max-Flow}{section.0.2}% 11
-\BOOKMARK [2][-]{subsection.0.2.2}{Min-Cut}{section.0.2}% 12
-\BOOKMARK [1][-]{section.0.3}{Geometry}{}% 13
-\BOOKMARK [2][-]{subsection.0.3.1}{Convex-Hull}{section.0.3}% 14
-\BOOKMARK [2][-]{subsection.0.3.2}{Shoelace Formula \(python\)}{section.0.3}% 15
-\BOOKMARK [1][-]{section.0.4}{String}{}% 16
-\BOOKMARK [2][-]{subsection.0.4.1}{LCS}{section.0.4}% 17
-\BOOKMARK [2][-]{subsection.0.4.2}{LIS}{section.0.4}% 18
-\BOOKMARK [2][-]{subsection.0.4.3}{KMP}{section.0.4}% 19
-\BOOKMARK [1][-]{section.0.5}{Other}{}% 20
-\BOOKMARK [2][-]{subsection.0.5.1}{Disjoint Set}{section.0.5}% 21
-\BOOKMARK [2][-]{subsection.0.5.2}{Date Transformation}{section.0.5}% 22
-\BOOKMARK [2][-]{subsection.0.5.3}{make CIN and COUT Run Faseter}{section.0.5}% 23
+\BOOKMARK [2][-]{subsection.0.1.2}{Topological-Sorting}{section.0.1}% 3
+\BOOKMARK [2][-]{subsection.0.1.3}{DAG Shortest Path}{section.0.1}% 4
+\BOOKMARK [2][-]{subsection.0.1.4}{Bellman-Ford}{section.0.1}% 5
+\BOOKMARK [2][-]{subsection.0.1.5}{Djkstra}{section.0.1}% 6
+\BOOKMARK [2][-]{subsection.0.1.6}{Floyd Warshall}{section.0.1}% 7
+\BOOKMARK [2][-]{subsection.0.1.7}{Strongly Connected Component}{section.0.1}% 8
+\BOOKMARK [2][-]{subsection.0.1.8}{Minimum Spanning Tree}{section.0.1}% 9
+\BOOKMARK [2][-]{subsection.0.1.9}{MST Kruskal}{section.0.1}% 10
+\BOOKMARK [2][-]{subsection.0.1.10}{Maximum-BPM}{section.0.1}% 11
+\BOOKMARK [1][-]{section.0.2}{Flow}{}% 12
+\BOOKMARK [2][-]{subsection.0.2.1}{Max-Flow}{section.0.2}% 13
+\BOOKMARK [2][-]{subsection.0.2.2}{Min-Cut}{section.0.2}% 14
+\BOOKMARK [1][-]{section.0.3}{Geometry}{}% 15
+\BOOKMARK [2][-]{subsection.0.3.1}{Convex-Hull}{section.0.3}% 16
+\BOOKMARK [2][-]{subsection.0.3.2}{Shoelace Formula \(python\)}{section.0.3}% 17
+\BOOKMARK [2][-]{subsection.0.3.3}{Swap Line}{section.0.3}% 18
+\BOOKMARK [2][-]{subsection.0.3.4}{Union Of Rectangles}{section.0.3}% 19
+\BOOKMARK [1][-]{section.0.4}{String}{}% 20
+\BOOKMARK [2][-]{subsection.0.4.1}{LCS}{section.0.4}% 21
+\BOOKMARK [2][-]{subsection.0.4.2}{LIS}{section.0.4}% 22
+\BOOKMARK [2][-]{subsection.0.4.3}{KMP}{section.0.4}% 23
+\BOOKMARK [1][-]{section.0.5}{Other}{}% 24
+\BOOKMARK [2][-]{subsection.0.5.1}{Disjoint Set}{section.0.5}% 25
+\BOOKMARK [2][-]{subsection.0.5.2}{Date Transformation}{section.0.5}% 26
+\BOOKMARK [2][-]{subsection.0.5.3}{make CIN and COUT Run Faseter}{section.0.5}% 27

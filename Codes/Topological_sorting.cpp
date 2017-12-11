@@ -19,6 +19,7 @@ int topolSort(int u)
 	{
 		topolSort(Graph[u][i]);
 	}
+    visited[u] = 2;
 	ans.push(u);
 	return 0;
 }
